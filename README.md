@@ -8,30 +8,30 @@ It's like I'm having or creating file and this file will be like a documentation
 ## Examples
 
 1. Headers
-![headers](headers.jpg)
+![headers](headers.JPG)
 2. Emphasis
-![emphasis](emph.jpg)
+![emphasis](emph.JPG)
 
 3. Lists
  * Unordered 
 
- ![un](un.jpg)
+ ![un](un.JPG)
 
  * Ordered
 
- ![or](or.jpg)
+ ![or](or.JPG)
 
  4. Links
 
- ![links](links.jpg)
+ ![links](links.JPG)
 
 5. Blockquotes
  
- ![block](block.jpg)
+ ![block](block.JPG)
 
  6. Inline code
 
- ![inline](inline.jpg)
+ ![inline](inline.JPG)
 
 
 

@@ -4,7 +4,7 @@ markdown is an easy method to create and design text on github platforms, how th
 
 
 It's like I'm having or creating file and this file will be like a documentation for something I use in my application, the file like I'm sharing informotion.
-***
+
 ## Examples
 
 1. Headers

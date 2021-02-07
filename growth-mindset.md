@@ -10,7 +10,8 @@ The ability to keep your mind active and creative through studying, exploring an
 Here'is a simple brief about the difference between fixed and growth mindest:
 
 
-![GrowthMindset](GrowthMindset.png)
+![GM](GM.png)
+
 
 
 ## How to keep yourself in a growth mindset?

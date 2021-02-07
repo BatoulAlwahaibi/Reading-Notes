@@ -4,9 +4,9 @@
 ## **Table Of Content :**
 **Topic** | **Link**
 ----- | -----
-**Main Page** | [Main Page](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md) | 
+**Main Page** | [Main Page](https://github.com/BatoulAlwahaibi/Reading-Notes/blob/main/README.md) | 
 **Growth Mindset Page** | [Growth Mindset](https://github.com/BatoulAlwahaibi/Reading-Notes/blob/main/growth-mindset.md) 
-**MarkDown Page** | [MarkDown](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Markdown.md)
+**MarkDown Page** | [MarkDown](https://github.com/BatoulAlwahaibi/Reading-Notes/blob/main/markdown.md)
 ***
 [reading-notes](https://github.com/BatoulAlwahaibi/Reading-Notes) is maintained by [Batoul-alwahaibi](https://github.com/BatoulAlwahaibi) .
 

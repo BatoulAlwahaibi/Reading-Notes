@@ -8,11 +8,17 @@ It's like I'm having or creating file and this file will be like a documentation
 ## Examples
 
 1. Headers
-***
+
+
+
 ![headers](headers.JPG)
-***
+
+
+
 2. Emphasis
+
 ![emphasis](emph.JPG)
+
 
 3. Lists
  * Unordered 
@@ -22,14 +28,17 @@ It's like I'm having or creating file and this file will be like a documentation
  * Ordered
 
  ![or](or.JPG)
+ 
 
  4. Links
 
  ![links](links.JPG)
+ 
 
 5. Blockquotes
  
  ![block](block.JPG)
+ 
 
  6. Inline code
 

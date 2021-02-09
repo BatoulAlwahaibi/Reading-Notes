@@ -28,7 +28,7 @@ Consider how you might approach a different type of script.
 This example calculates the cost of a name plaque. 
 Customers are charged by the letter. 
 
-![GOAL](DEFINE.JPG)
+![GOAL](DEFINE.jpg)
 
 
 ### SKETCHING OUT THE TASKS IN A FLOWCHART 
@@ -58,7 +58,7 @@ operators, which you can use with numbers.
 You may remember some from math class. 
 
 
-![EX](EX.JPG)
+![EX](EX.jpg)
 
 
 
@@ -68,7 +68,7 @@ It is used to join the strings on either side of it.
 
 example: 
 ***
-![OP](OPERATORS.JPG)
+![OP](OPERATORS.jpg)
 
 
 ### WHAT IS A FUNCTION? 
@@ -80,26 +80,33 @@ reuse the function (rather than repeating the same set of statements).
 
 #### A BASIC FUNCTION 
 example: 
+
 ***
-![B](BASIC.JPG)
+
+![B](BASIC.jpg)
 
 
 #### DECLARING A function
 example: 
+
 ***
-![D](DECLARING.JPG)
+
+![D](DECLARING.jpg)
 
 
 #### CALLING A FUNCTION
 
 example:
+
 ***
-![DE](CALLING.JPG)
+
+![DE](CALLING.jpg)
 
 
 #### DECLARING function THAT NEED INFORMATION
 
 example:
+
 ***
 ![INF](INFORMATION.jpg)
 
@@ -107,5 +114,6 @@ example:
 #### Getting a single value out of a function 
 
 example: 
+
 ***
 ![git](Getting.jpg)

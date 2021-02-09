@@ -67,6 +67,7 @@ There is just one string operator: the+ symbol.
 It is used to join the strings on either side of it. 
 
 example: 
+***
 ![OP](OPERATORS.JPG)
 
 
@@ -79,27 +80,32 @@ reuse the function (rather than repeating the same set of statements).
 
 #### A BASIC FUNCTION 
 example: 
+***
 ![B](BASIC.JPG)
 
 
 #### DECLARING A function
 example: 
+***
 ![D](DECLARING.JPG)
 
 
 #### CALLING A FUNCTION
 
 example:
+***
 ![DE](CALLING.JPG)
 
 
 #### DECLARING function THAT NEED INFORMATION
 
 example:
+***
 ![INF](INFORMATION.jpg)
 
 
 #### Getting a single value out of a function 
 
 example: 
+***
 ![git](Getting.jpg)
